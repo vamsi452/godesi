@@ -16,7 +16,7 @@ int _selectedIndex = 0;
       style: optionStyle,
     ),
     Text(
-      'Index 1: Business',
+      'Index 1: Search',
       style: optionStyle,
     ),
     Text(
